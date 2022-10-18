@@ -4,9 +4,9 @@ import { useContext } from "react";
 import { AiFillCaretDown } from "react-icons/ai";
 import { FaGithub } from "react-icons/fa";
 import StoreContext from "../context/store-context";
-import MedusaLogo from "../public/mylogo.PNG";
-import BakeryBanner from "../public/banner.JPG"
-import ChocolateSplash from "../public/chocolatesplash.PNG"
+import MedusaLogo from "../public/pixelz.PNG";
+import BakeryBanner from "../public/pmk.PNG"
+// import ChocolateSplash from "../public/drone2.PNG"
 import field from "../public/fieldSvg.svg";
 import styles from "../styles/landing-page.module.css";
 import store from "../styles/store.module.css";
@@ -22,13 +22,13 @@ export default function Home({ products }) {
       <main className={styles.main}>
         <div className={styles.hero}>
           <div className={styles.title}>
-            <h1 style={{ margin: 0 }}>Bakery Shop</h1>
+            <h1 style={{ margin: 0 }}>Pixelz Ark</h1>
             {/* <h1 style={{ margin: 0 }}>+</h1>
             <h1 style={{ margin: 0 }}>Next.js starter</h1> */}
           </div>
           <div className={styles.links}>
             <p>
-              Savour your taste buds with the variety of delicious looking products.
+              Grab Your Gears. Bring your creativity to life.
             </p>
           </div>
         </div>
@@ -36,10 +36,8 @@ export default function Home({ products }) {
           <Image src={BakeryBanner} alt="field" layout="responsive"></Image>
         </div>
         <section id="storeSection" className={store.container}>
-          <h1 className={store.title}>Warning <span className={store.title_inner}>Mouth Watering</span> Content</h1>   
-          <div className={styles.canvas}>
-          <Image src={ChocolateSplash} alt="field" layout="responsive"></Image>
-        </div>
+          {/* <h1 className={store.title}>Warning <span className={store.title_inner}>Mouth Watering</span> Content</h1>    */}
+          
           <div className={store.products}>
             <div className={store.grid}>
               {products &&

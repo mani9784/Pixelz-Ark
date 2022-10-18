@@ -74,7 +74,7 @@ const Product = ({ product }) => {
             <h1>{product.title}</h1>
           </div>
           <p className="price">{formatPrices(cart, product.variants[0])}</p>
-          <div className={styles.selection}>
+          {/* <div className={styles.selection}>
             <p>Select Size</p>
             <div className="selectors">
               {product.variants
@@ -100,7 +100,7 @@ const Product = ({ product }) => {
                   );
                 })}
             </div>
-          </div>
+          </div> */}
           <div className={styles.selection}>
             <p>Select Quantity</p>
             <div className={styles.qty}>

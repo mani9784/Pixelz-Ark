@@ -5,7 +5,7 @@ import styles from "../../styles/nav-bar.module.css";
 const NavLinks = () => {
   return (
     <div>
-      <Link href="#">
+      {/* <Link href="#">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
           Cakes
         </a>
@@ -14,8 +14,8 @@ const NavLinks = () => {
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
           Cookies
         </a>
-      </Link>
-      <Link href="https://aniqjaved.github.io/portfolio/">
+      </Link> */}
+      <Link href="https://www.linkedin.com/in/manish-bajdoliya-4104711b5">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
           About Us
         </a>

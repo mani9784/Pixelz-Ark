@@ -1,31 +1,29 @@
-# Bakery Shop
+# Pixelz Ark
 
-[![mylogo3f98826c1b82a39d.png](https://s4.gifyu.com/images/mylogo3f98826c1b82a39d.png)](https://gifyu.com/image/S9NkS)
+[![mylogo3f98826c1b82a39d.png](https://raw.githubusercontent.com/mani9784/images/main/ark.png)
 
 ### Participants
 
-Github : @AniqJaved 
+Github : @mani9784
 
-Discord : AniqJaved#4687
+Discord : manish Choudhary#9253
 
 ### Description
 
-This is a bakery shop storefront powered by using NextJs combined with MedusaJs
+This is a Camera and acceseries storefront powered by using NextJs combined with MedusaJs
 
 ### Preview
-<img src="./bakeryshop.gif" alt="bakeryshop.gif" width="1000" />
+<!-- <img src="./bakeryshop.gif" alt="bakeryshop.gif" width="1000" /> -->
 
-[![bakeryshop.gif](https://s7.gifyu.com/images/bakeryshop.gif)](https://gifyu.com/image/S9Nkf)
+![s1.png](https://raw.githubusercontent.com/mani9784/images/main/Screenshot%202022-10-19%20002202.png)
 
-![image1643f165dc05a3078.png](https://s7.gifyu.com/images/image1643f165dc05a3078.png)
+![s2.png](https://raw.githubusercontent.com/mani9784/images/main/Screenshot%202022-10-19%20002235.png)
 
-![image2c99580e90d0eed67.png](https://s7.gifyu.com/images/image2c99580e90d0eed67.png)
+![s3.png](https://raw.githubusercontent.com/mani9784/images/main/Screenshot%202022-10-19%20002303.png)
 
-![image334f2d9bc31afcc52.png](https://s7.gifyu.com/images/image334f2d9bc31afcc52.png)
+![s4.png](https://raw.githubusercontent.com/mani9784/images/main/Screenshot%202022-10-19%20002328.png)
 
-![image56fd1e3d05b1bd76c.png](https://s4.gifyu.com/images/image56fd1e3d05b1bd76c.png)
 
-![image7.png](https://s7.gifyu.com/images/image7.png)
 
 
 ## Set up Project Requirements
@@ -46,12 +44,12 @@ Here are the steps to be taken after that:
 
 1. Clone the repository:
 
-git clone https://github.com/AniqJaved/bakeryshop.git
+git clone https://github.com/mani9784/Pixelz-Ark.git
 
 
 2. Change directory:
     ```bash
-    cd bakeryshop
+    cd Pixelz-Ark
     ```
 3. Install dependencies
     ```bash
