@@ -1,6 +1,6 @@
 # Pixelz Ark
 
-[![mylogo3f98826c1b82a39d.png](https://raw.githubusercontent.com/mani9784/images/main/ark.png)
+[![mylogo3f98826c1b82a39d.png](https://raw.githubusercontent.com/mani9784/images/main/pixelz.png)
 
 ### Participants
 
